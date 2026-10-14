@@ -12,7 +12,7 @@
 <p align="center">
   <a href="https://constantinoit.com"><img src="https://img.shields.io/badge/Website-constantinoit.com-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
   <a href="https://github.com/ademirconstantino"><img src="https://img.shields.io/github/followers/ademirconstantino?label=Followers&style=for-the-badge&logo=github&color=181717" alt="Followers" /></a>
-  <img src="https://komarev.com/ghpvc/?username=ademirconstantino&style=for-the-badge&color=36BCF7&label=Profile+views" alt="Profile views" />
+  <a href="https://github.com/ademirconstantino"><img src="https://komarev.com/ghpvc/?username=ademirconstantino&style=for-the-badge&color=36BCF7&label=Profile+views" alt="Profile views" /></a>
 </p>
 
 ---
